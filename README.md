@@ -21,9 +21,9 @@ This was possible only because of generous contributions by R users globally. Th
 
 ## PREPARATION BEFORE THE SEMINAR
 
-To follow the Python tutorial during our seminar, you will need to have a few things installed.
+To follow the R tutorial during our seminar, you will need to have a few things installed.
 
-The reason we do this **before** the seminar is because it takes time. And we only have two hours. So I would much rather we spend those hours actually learning Python and its application in Data Science instead of troubleshooting a Python installation gone wrong! 
+The reason we do this **before** the seminar is because it takes time. And we only have two hours. So I would much rather we spend those hours actually learning R and its application in Data Science instead of troubleshooting a R installation gone wrong! 
 
 That's why I'm asking you to go through this initial steps **before** the seminar. So we can get started right away!
 
@@ -103,8 +103,8 @@ Happy learning!
 
 <br><br>
 
-#### Course Instructor: [Graciela Carrillo](mailto:graciela.carrillo@kaplan.com?subject=[Intro_Python]%20Source%20Han%20Sans)
-#### Module Coordinator: [Dr. Molly Huq](mailto:graciela.carrillo@kaplan.com?subject=[Intro_Python]%20Source%20Han%20Sans)
+#### Course Instructor: [Graciela Carrillo](mailto:graciela.carrillo@kaplan.com?subject=[Intro_R]%20Source%20Han%20Sans)
+#### Module Coordinator: [Dr. Molly Huq](mailto:graciela.carrillo@kaplan.com?subject=[Intro_R]%20Source%20Han%20Sans)
 
 
 <br><br>
