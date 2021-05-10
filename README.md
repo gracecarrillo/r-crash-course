@@ -1,3 +1,4 @@
+
 # CRASH COURSE R FOR DATA SCIENCE - ALL MATERIALS LIVE HERE!
 
 # [University of Glasgow - Glasgow International College](www.glasgow.ac.uk/gic) 
@@ -7,6 +8,8 @@ This is a repository for materials used for a module on quantitative research re
 
 <p align="justify">
 
+<br>
+
 ## WHAT IS R?
 
 R is a very popular programming language for the world of data analysis, data science and statistical computing. The journey of the R language from a rudimentary text editor to the interactive R Studio has engaged many scientists across the world.
@@ -14,6 +17,7 @@ R is a very popular programming language for the world of data analysis, data sc
 This was possible only because of generous contributions by R users globally. The inclusion of powerful packages in R has made it more and more powerful with time. Packages such as dplyr, tidyr, readr, data.table, SparkR, ggplot2 have made data manipulation, visualization and computation much faster.
 
 </p>
+<br>
 
 ## PREPARATION BEFORE THE SEMINAR
 
@@ -26,6 +30,7 @@ That's why I'm asking you to go through this initial steps **before** the semina
 To teach this course, we will use an interactive package called `swirl`. The `swirl` R package makes it fun and easy to learn R programming and data science.
 
 Bur first things first.
+<br>
 
 ### Get R
 
@@ -36,6 +41,8 @@ For help installing R, check out one of the following videos (courtesy of Roger 
 [Installing R on Windows](http://youtu.be/mfGFv-iB724)
 [Installing R on Mac](http://youtu.be/Icawuhf0Yqo)
 
+<br>
+
 ### Get R Studio
 
 In addition to R, it’s highly recommended that you install RStudio, which will make your experience with R much more enjoyable.
@@ -43,6 +50,7 @@ In addition to R, it’s highly recommended that you install RStudio, which will
 If you need to install RStudio, you can do so [here](https://www.rstudio.com/products/rstudio/download/). Select the appropriate installer for your operating system.
 
 Once you have finished installing VS Code, you can continue with these instructions. 
+<br>
 
 ### Install Swirl (this step can be done during the seminar, if you have seminar hours.) 
 
@@ -51,10 +59,13 @@ Open RStudio (or just plain R if you don't have RStudio) and type the following 
 ```
 > install.packages("swirl")
 ```
+<br>
 
 ### Finally, start Swirl. 
 
 This is the only step that you will repeat every time you want to run swirl. First, you will load the package using the `library()` function.
+
+<br>
 
 ### Install an interactive course. 
 
@@ -82,6 +93,7 @@ Now you are ready for the seminar.
 
 Happy learning!
 
+<br>
 
 ## WHAT TO DO AFTER THE SEMINAR
 
@@ -94,6 +106,15 @@ Happy learning!
 #### Course Instructor: [Graciela Carrillo](mailto:graciela.carrillo@kaplan.com?subject=[Intro_Python]%20Source%20Han%20Sans)
 #### Module Coordinator: [Dr. Molly Huq](mailto:graciela.carrillo@kaplan.com?subject=[Intro_Python]%20Source%20Han%20Sans)
 
+
 <br><br>
 
 ---
+## Other Resources
+
+[R for Data Science](https://r4ds.had.co.nz/)
+
+[R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug)
+
+[R Programming for Beginners | Complete Tutorial | R & RStudio](https://www.youtube.com/watch?v=BvKETZ6kr9Q
+)
